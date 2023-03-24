@@ -3,4 +3,4 @@
 # Crie sua key da API do chat GPT no link abaixo
 ## https://platform.openai.com/account/api-keys
 
-![descrição da imagem](Google Sheets.png)
+![descrição da imagem](Sheets.png)
